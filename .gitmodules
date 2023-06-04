@@ -1,0 +1,6 @@
+[submodule "Home"]
+	path = Home
+	url = git@github.com:Telephone-QtApp/Home.git
+[submodule "ServiceWrapper"]
+	path = ServiceWrapper
+	url = git@github.com:Telephone-QtApp/ServiceWrapper.git
